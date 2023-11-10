@@ -1,3 +1,6 @@
+# Reto de programacion 
+https://nuwe.io/dev/tech-hubs/hubs/accenture/accenture-tech-hub
+
 # versiones usadas
 * Java 17.0.9
 * Docker 24.0.6
